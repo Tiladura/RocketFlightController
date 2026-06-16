@@ -1,13 +1,15 @@
 # RocketFlightController
-I decided to make a flight controller after failing to assembly a rocket due to lack of access to rocket model rockets :(
+I decided to make a flight controller after failing to assembly a rocket due to lack of access to rocket model motors :(
 
 # Components
-- ESP32-WROOM-32E ----> i used this model in Kicad, it is a great microcontroller which can be accessed remotely because of its wifi/bluetooth modules.
-- BMP280 ----> pressure sensor which can be used to approximate height which is crucial for drones, rockets and etc.
-- MPU-6050 ----> simple accelerometer which also has a gyroscope used to determine tilt/angle
+- **ESP32-WROOM-32E** - i used this model in Kicad, it is a great microcontroller which can be accessed remotely because of its wifi/bluetooth modules.
+- **BMP280** - pressure sensor which can be used to approximate height which is crucial for drones, rockets and etc.
+- **MPU-6050** - simple accelerometer which also has a gyroscope used to determine tilt/angle
 I also decided to make spaces or pins for 4 servos, as i planned to allocate 2 of them for TVC(thrust vector control), and other 2 for an active recovery system.
-and there is a bunch of capacitors, resistors, some buttons which are all used on a single custom PCB, all parts of which i will list in BOM list in the end.
 
+And there is a bunch of capacitors, resistors, some buttons which are all used on a single custom PCB, all parts of which i will list in BOM list in the end.
+
+### The entire board can be powered from a standard 5 V battery pack or USB power bank. I did not include it in the BOM because it is a common off-the-shelf item that users can easily purchase separately.
 ## Electronics and PCB
 
 | Schematic | PCB Layout | 3D Render |
