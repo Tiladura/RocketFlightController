@@ -1,5 +1,5 @@
 # RocketFlightController
-I decided to make a flight controller after failing to assembly a rocket due to lack of access to rocket model motors :(
+I decided to design a custom flight controller because i wanted to learn more about custom PCBs and overall sensors and microcontrollers workflow, while trying to master soldering along the way :p
 
 # Components
 - **ESP32-WROOM-32E** - i used this model in Kicad, it is a great microcontroller which can be accessed remotely because of its wifi/bluetooth modules.
