@@ -1,0 +1,31 @@
+### Footprint positions - created on 2026-05-01T22:07:16+0500 ###
+### Printed by KiCad version 9.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                                      PosX       PosY       Rot  Side
+C1        100n             C_0805_2012Metric                                        112.3500   -62.9850    0.0000  top
+C2        10u              C_1206_3216Metric                                         92.1300   -81.3250    0.0000  top
+C3        100n             C_0805_2012Metric                                        112.3500   -65.9950    0.0000  top
+C4        100n             C_0805_2012Metric                                        112.3500   -69.0050    0.0000  top
+C5        470u             CP_Radial_D8.0mm_P3.50mm                                 108.0247   -84.4250    0.0000  top
+C6        10u              C_1206_3216Metric                                         92.1300   -84.6750    0.0000  top
+C7        10u              C_1206_3216Metric                                         92.1300   -88.0250    0.0000  top
+J1        Conn_01x03_Pin   PinHeader_1x03_P2.54mm_Vertical                           58.2800   -81.9450    0.0000  top
+J2        Conn_01x03_Pin   PinHeader_1x03_P2.54mm_Vertical                           62.8700   -81.9450    0.0000  top
+J3        Conn_01x03_Pin   PinHeader_1x03_P2.54mm_Vertical                           67.4600   -81.9450    0.0000  top
+J4        Conn_01x03_Pin   PinHeader_1x03_P2.54mm_Vertical                           72.0500   -81.9450    0.0000  top
+J5        SERVO_POWER_IN   PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal   107.5500   -45.6300   90.0000  top
+J6        LOGIC_POWER_IN   PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal   107.6600   -57.6000   90.0000  top
+J7        UART_PROGRAM     PinHeader_1x06_P2.54mm_Vertical                          107.8300   -63.7750    0.0000  top
+R1        4.7k             R_0805_2012Metric                                         87.1000   -81.1250    0.0000  top
+R2        4.7k             R_0805_2012Metric                                         87.1000   -84.0750    0.0000  top
+R3        10k              R_0805_2012Metric                                         87.1000   -87.0250    0.0000  top
+R4        10k              R_0805_2012Metric                                         87.1000   -89.9750    0.0000  top
+R5        10k              R_0805_2012Metric                                         87.1000   -92.9250    0.0000  top
+SW1       RESET            SW_PUSH_6mm                                               76.3700   -81.6750    0.0000  top
+SW2       BOOT             SW_PUSH_6mm                                               76.3700   -90.2250    0.0000  top
+U1        ESP32-WROOM-32E  ESP32-WROOM-32D                                           80.7600   -68.6250    0.0000  top
+U2        MPU-6050         InvenSense_QFN-24_4x4mm_P0.5mm                           113.3000   -73.6850    0.0000  top
+U3        BMP280           Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering        107.0650   -91.2100    0.0000  top
+U4        AMS1117-3.3      SOT-223-3_TabPin2                                         99.8800   -83.8500    0.0000  top
+## End
