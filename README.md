@@ -2,7 +2,7 @@
 I decided to design a custom flight controller because i wanted to learn more about custom PCBs and overall sensors and microcontrollers workflow, while trying to master soldering along the way :p
 
 ## Components
-- **ESP32-WROOM-32E** - i used this model in Kicad, it is a great microcontroller which can be accessed remotely because of its wifi/bluetooth modules.
+- **ESP32-WROOM-32E** - i used this module in Kicad, it is a great microcontroller which can be accessed remotely because of its wifi/bluetooth modules.
 - **BMP280** - pressure sensor which can be used to approximate height which is crucial for drones, rockets and etc.
 - **MPU-6050** - simple accelerometer which also has a gyroscope used to determine tilt/angle
 I also decided to make spaces or pins for 4 servos, as i planned to allocate 2 of them for TVC(thrust vector control), and other 2 for an active recovery system.
