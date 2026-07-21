@@ -1,0 +1,17 @@
+﻿BOM List,,,,,
+Name,Purpose,Qty,Total (USD),Link,Distributor
+Custom PCB,Plate which will store and connect all components,5,2,--,JLCPCB
+03EC0575 (C2831775),Large servo rail capacitor to reduce voltage dips during servo movement.,10,0.47,https://www.lcsc.com/product-detail/C2831775.html,LCSC
+DB128L-5.08-2P-GN-S (C395868),Power input terminals for logic and servo power connections.,5,0.99,https://www.lcsc.com/product-detail/C395868.html,LCSC
+2.54-1*3P (C49257),"3-pin servo headers for servo power, ground, and PWM signal.",50,1.06,https://www.lcsc.com/product-detail/C49257.html,LCSC
+2.54-1x6P (C37208),UART programming header for flashing and debugging the ESP32.,20,0.88,https://www.lcsc.com/product-detail/C37208.html,LCSC
+1206B106K500NT (C303950),Bulk/decoupling capacitors for the stable 3.3 V regulator input/output and logic power.,5,0.43,https://www.lcsc.com/product-detail/C303950.html,LCSC
+0805W8F4701T5E (C17673),I2C pull-up resistors for SDA and SCL lines.,100,0.22,https://www.lcsc.com/product-detail/C17673.html,LCSC
+0805W8F1002T5E (C17414),Pull-up/pull-down resistors for ESP32 boot/reset and sensor address configuration.,100,0.3,https://www.lcsc.com/product-detail/C17414.html,LCSC
+ESP32-WROOM-32E-N8 (C701342),"Main microcontroller module for sensor reading, servo control, and wireless debugging.",1,4.42,https://www.lcsc.com/product-detail/C701342.html,LCSC
+MPU-6050 (C24112),IMU sensor for acceleration and angular velocity measurement during rocket flight.,1,9.99,https://www.lcsc.com/product-detail/C24112.html,LCSC
+BMP280 (C83291),Barometric pressure sensor for altitude and pressure measurement.,1,6.03,https://www.lcsc.com/product-detail/C83291.html,LCSC
+CC0805KRX7R9BB104 (C49678),"Decoupling capacitors for the ESP32, MPU6050, BMP280, and power rail noise filtering.",100,0.53,https://www.lcsc.com/product-detail/C49678.html,LCSC
+AMS1117-3.3 (C6186),3.3 V voltage regulator for the ESP32 and sensors.,5,1.07,https://www.lcsc.com/product-detail/C6186.html,LCSC
+TL1105AF160Q (C273465),Reset and boot tactile buttons for programming and manual restart.,5,0.48,https://www.lcsc.com/product-detail/C273465.html,LCSC
+Grand Total,,,28.87,,
